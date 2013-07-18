@@ -12,7 +12,7 @@ class Tvigle
      * @param \SoapClient $tvigle
      * @param string $coverPrefix
      */
-    private function __construct(\SoapClient $tvigle)
+    public function __construct(\SoapClient $tvigle)
     {
         $this->tvigle = $tvigle;
     }
