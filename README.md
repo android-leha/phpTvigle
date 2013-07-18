@@ -1,4 +1,6 @@
-tvigle
-======
+phpTvigle
+=========
 
-Tvigle PHP API
+Tvigle PHP API wrapper
+
+Находится в процессе разработки.
