@@ -1,6 +1,6 @@
 phpTvigle
 =========
 
-Tvigle PHP API wrapper
+Tvigle PHP SOAP API wrapper
 
 Находится в процессе разработки.
